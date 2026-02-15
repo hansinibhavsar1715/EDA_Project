@@ -1,2 +1,20 @@
-# EDA_Project
-This repository contains an Exploratory Data Analysis (EDA) project focused on understanding, cleaning, and extracting insights from the dataset. The analysis includes data preprocessing, visualization, and key observations.
+# Exploratory Data Analysis Project
+
+This project focuses on performing Exploratory Data Analysis (EDA) on the dataset.
+
+## Key Tasks Performed
+- Data Cleaning
+- Data Preprocessing
+- Data Visualization
+- Insight Generation
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib / Seaborn
+
+## Dataset
+The dataset includes movie-related information used for analysis.
+
+## Objective
+To identify patterns, trends, and meaningful insights from the data.
